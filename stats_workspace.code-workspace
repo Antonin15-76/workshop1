@@ -5,8 +5,10 @@
 		},
 		{
 			"path": "front"
+		},
+		{
+			"path": "C:/Users/totog/Documents/reactApiRacine/api/.vscode"
 		}
-		
 	],
 	"settings": {
 		"javascript.validate.enable": false,
