@@ -4,7 +4,7 @@ import { Link } from "react-router-dom"
 import Accueil from "../../pages/home/index"
 
 const navItems = [
-    { label: 'Accueil', to: '/app/home', Icon: Accueil, hasDivider: true },
+    { label: 'Accueil', to: '/', Icon: Accueil, hasDivider: true },
 ]
 
 const useNavigationItems = () => {
